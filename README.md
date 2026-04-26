@@ -18,12 +18,3 @@ A simple Flutter app created for the HCI Multimedia task.
 flutter pub get
 flutter run
 ```
-
-## Submission
-
-Submit:
-
-1. GitHub repository link for this project.
-2. A file containing screenshots of the app output after running it.
-
-Deadline: Monday 11:59 PM.
